@@ -39,7 +39,9 @@ Currently, ARCHIVE is in its early stages of development. Our immediate focus is
 
 ## Models
 - The time series forecast model offers a straightforward, time-based forecast, enabling long-term energy planning.
+  
 - The regression model's multi-factor approach provides actionable insights for real-time optimization, targeting the most significant factors influencing energy consumption.
+<img width="594" alt="image" src="https://github.com/niclee1219/HealthHack-Archive/assets/159306217/f95db3f0-517d-4746-a863-eccd8c5981e6">
 
 Both models serve as foundational tools in our arsenal, paving the way for sophisticated energy-saving strategies that can lead to substantial reductions in energy usage and costs, as well as contribute to our environmental sustainability goals. By leveraging such predictive analytics, HealthHack-Archive stands at the forefront of smart, efficient, and responsible energy management in healthcare facilities.
 
