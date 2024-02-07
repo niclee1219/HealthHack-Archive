@@ -1,0 +1,1 @@
+SELECT * FROM "energyAnalytics" limit 1

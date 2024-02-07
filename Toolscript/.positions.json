@@ -1,0 +1,414 @@
+{
+  "chart10": {
+    "container": "container15",
+    "subcontainer": "7290c",
+    "row": 1,
+    "height": 7,
+    "width": 5
+  },
+  "chart11": {
+    "container": "container22",
+    "subcontainer": "dd633",
+    "height": 9.8,
+    "width": 6
+  },
+  "chart12": {
+    "container": "container23",
+    "subcontainer": "dd633",
+    "height": 9.8,
+    "width": 12
+  },
+  "chart5": {
+    "container": "container14",
+    "subcontainer": "807e2",
+    "height": 7,
+    "width": 12
+  },
+  "chart7": {
+    "container": "container12",
+    "subcontainer": "807e2",
+    "height": 7,
+    "width": 12
+  },
+  "chart8": {
+    "container": "container15",
+    "subcontainer": "7290c",
+    "row": 0.8,
+    "col": 6,
+    "height": 7,
+    "width": 6
+  },
+  "chart9": {
+    "container": "container20",
+    "subcontainer": "a618a",
+    "height": 7,
+    "width": 12
+  },
+  "container12": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6b2f6",
+    "row": 22.6,
+    "height": 3.8,
+    "width": 6
+  },
+  "container14": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6b2f6",
+    "row": 22.6,
+    "col": 6,
+    "height": 3.8,
+    "width": 6
+  },
+  "container15": {
+    "container": "tabbedContainer1",
+    "subcontainer": "cacfd",
+    "row": 0.6,
+    "height": 3.8,
+    "width": 12
+  },
+  "container16": {
+    "container": "tabbedContainer1",
+    "subcontainer": "cacfd",
+    "row": 4.4,
+    "height": 3.8
+  },
+  "container17": {
+    "container": "tabbedContainer1",
+    "subcontainer": "cacfd",
+    "row": 4.4,
+    "col": 3,
+    "height": 3.8
+  },
+  "container18": {
+    "container": "tabbedContainer1",
+    "subcontainer": "cacfd",
+    "row": 8.2,
+    "height": 3.8
+  },
+  "container19": {
+    "container": "tabbedContainer1",
+    "subcontainer": "cacfd",
+    "row": 8.2,
+    "col": 3,
+    "height": 3.8
+  },
+  "container20": {
+    "container": "tabbedContainer1",
+    "subcontainer": "cacfd",
+    "row": 4.4,
+    "col": 6,
+    "height": 3.8,
+    "width": 6
+  },
+  "container21": {
+    "container": "tabbedContainer1",
+    "subcontainer": "2437a",
+    "row": 0.6,
+    "height": 3.8,
+    "width": 12
+  },
+  "container22": {
+    "container": "tabbedContainer1",
+    "subcontainer": "2437a",
+    "row": 4.4,
+    "height": 3.8,
+    "width": 12
+  },
+  "container23": {
+    "container": "container22",
+    "subcontainer": "dd633",
+    "row": 9.8,
+    "height": 3.8,
+    "width": 12
+  },
+  "container6": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6b2f6",
+    "row": 5.8,
+    "height": 16.8,
+    "width": 12
+  },
+  "container9": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6b2f6",
+    "row": 2,
+    "height": 3.8,
+    "width": 12
+  },
+  "containerTitle12": {
+    "container": "container12",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 0.6,
+    "width": 8
+  },
+  "containerTitle14": {
+    "container": "container14",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 0.6,
+    "width": 10
+  },
+  "containerTitle15": {
+    "container": "container15",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle16": {
+    "container": "container15",
+    "subcontainer": "7290c",
+    "col": 7,
+    "height": 0.6,
+    "width": 4
+  },
+  "containerTitle17": {
+    "container": "container20",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle18": {
+    "container": "container15",
+    "subcontainer": "7290c",
+    "col": 1,
+    "height": 0.6,
+    "width": 4
+  },
+  "containerTitle19": {
+    "container": "container21",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle20": {
+    "container": "container22",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 6
+  },
+  "containerTitle21": {
+    "container": "container23",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 6
+  },
+  "containerTitle9": {
+    "container": "container6",
+    "subcontainer": "bbeb8",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 12
+  },
+  "divider6": {
+    "container": "container6",
+    "subcontainer": "bbeb8",
+    "row": 15.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "icon10": {
+    "container": "container18",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 2.2,
+    "width": 9
+  },
+  "icon11": {
+    "container": "container19",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 2.2,
+    "width": 9
+  },
+  "icon12": {
+    "container": "container15",
+    "subcontainer": "7290c",
+    "height": 0.8,
+    "width": 1
+  },
+  "icon3": {
+    "container": "container12",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 1
+  },
+  "icon5": {
+    "container": "container14",
+    "rowGroup": "header",
+    "height": 0.8,
+    "width": 1
+  },
+  "icon6": {
+    "container": "container9",
+    "subcontainer": "1b25d",
+    "row": 0.6,
+    "col": 4,
+    "height": 0.8,
+    "width": 1
+  },
+  "icon7": {
+    "container": "container15",
+    "subcontainer": "7290c",
+    "col": 6,
+    "height": 0.8,
+    "width": 1
+  },
+  "icon8": {
+    "container": "container16",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 2.2,
+    "width": 9
+  },
+  "icon9": {
+    "container": "container17",
+    "rowGroup": "header",
+    "col": 1,
+    "height": 2.2,
+    "width": 9
+  },
+  "image1": {
+    "subcontainer": "sidebarFrame1",
+    "row": 0.4,
+    "height": 3.4,
+    "width": 1
+  },
+  "image2": {
+    "container": "container21",
+    "subcontainer": "96f64",
+    "col": 2,
+    "height": 3,
+    "width": 8
+  },
+  "progressCircle1": {
+    "container": "container9",
+    "subcontainer": "1b25d",
+    "col": 10,
+    "height": 2,
+    "width": 2
+  },
+  "statistic1": {
+    "container": "container9",
+    "subcontainer": "1b25d",
+    "row": 0.4,
+    "height": 0.8,
+    "width": 2
+  },
+  "statistic2": {
+    "container": "container9",
+    "subcontainer": "1b25d",
+    "row": 0.4,
+    "col": 2,
+    "height": 0.8,
+    "width": 2
+  },
+  "statistic3": {
+    "container": "container16",
+    "subcontainer": "a618a",
+    "height": 0.8,
+    "width": 12
+  },
+  "statistic4": {
+    "container": "container17",
+    "subcontainer": "a618a",
+    "height": 0.8,
+    "width": 12
+  },
+  "statistic5": {
+    "container": "container18",
+    "subcontainer": "a618a",
+    "height": 0.8,
+    "width": 12
+  },
+  "statistic6": {
+    "container": "container19",
+    "subcontainer": "a618a",
+    "height": 0.8,
+    "width": 12
+  },
+  "statistic7": {
+    "container": "container22",
+    "subcontainer": "dd633",
+    "row": 0,
+    "col": 6,
+    "height": 0.8,
+    "width": 2
+  },
+  "statistic8": {
+    "container": "container22",
+    "subcontainer": "dd633",
+    "col": 10,
+    "height": 0.8,
+    "width": 2
+  },
+  "tabbedContainer1": {
+    "row": 0,
+    "height": 1,
+    "width": 12
+  },
+  "table1": {
+    "container": "container22",
+    "subcontainer": "dd633",
+    "row": 0.8,
+    "col": 6,
+    "height": 8,
+    "width": 6
+  },
+  "tabs1": {
+    "subcontainer": "sidebarFrame1",
+    "row": 4.2,
+    "height": 0.8,
+    "width": 1
+  },
+  "text14": {
+    "container": "tabbedContainer1",
+    "subcontainer": "6b2f6",
+    "row": 0.2,
+    "height": 0.6,
+    "width": 7
+  },
+  "text15": {
+    "container": "tabbedContainer1",
+    "subcontainer": "cacfd",
+    "height": 0.6,
+    "width": 7
+  },
+  "text16": {
+    "container": "tabbedContainer1",
+    "subcontainer": "2437a",
+    "height": 0.6,
+    "width": 7
+  },
+  "text17": {
+    "container": "container9",
+    "subcontainer": "1b25d",
+    "row": 1,
+    "col": 5,
+    "height": 0.6,
+    "width": 2
+  },
+  "text18": {
+    "container": "container9",
+    "subcontainer": "1b25d",
+    "row": 0.4,
+    "col": 5,
+    "height": 0.6,
+    "width": 2
+  },
+  "text19": {
+    "container": "container9",
+    "subcontainer": "1b25d",
+    "row": 0.8,
+    "col": 8,
+    "height": 0.6,
+    "width": 2
+  },
+  "transactionsChart2": {
+    "container": "container6",
+    "subcontainer": "bbeb8",
+    "row": 0.8,
+    "height": 14.4,
+    "width": 12
+  }
+}

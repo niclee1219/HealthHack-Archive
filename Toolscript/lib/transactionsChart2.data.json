@@ -1,0 +1,23 @@
+[
+  {
+    "name": "transactions",
+    "x": {{getData.data['time']}},
+    "y": {{getData.data['energyUsed']}},
+    "type": "line",
+    "hovertemplate": "<b>%{x}</b><br>%{fullData.name}: %{y}<extra></extra>",
+    "transforms": [
+      {
+        "type": "groupby",
+        "groups": {{getData.data['archiveon']}},
+        "styles": []
+      },
+      {
+        "type": "sort",
+        "target": {{getData.data['time']}},
+        "order": "ascending"
+      }
+    ],
+    "marker": {},
+    "mode": "lines+markers"
+  }
+]
