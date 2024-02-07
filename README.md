@@ -37,6 +37,9 @@ Currently, ARCHIVE is in its early stages of development. Our immediate focus is
 - **Deployment & Scaling:** Expand deployment of ARCHIVE to additional hospital wards and facilities across Singapore.
 - **Provide Comprehensive Training & Support:** Develop training materials and resources for hospital administrators and staff to ensure successful adoption and utilization of ARCHIVE.
 
+## Models
+The time series forecast model offers a straightforward, time-based forecast, enabling long-term energy planning. The regression model's multi-factor approach provides actionable insights for real-time optimization, targeting the most significant factors influencing energy consumption. Both models serve as foundational tools in our arsenal, paving the way for sophisticated energy-saving strategies that can lead to substantial reductions in energy usage and costs, as well as contribute to our environmental sustainability goals. By leveraging such predictive analytics, HealthHack-Archive stands at the forefront of smart, efficient, and responsible energy management in healthcare facilities.
+
 ## Team: 
 - **Dexter Choo Jun Jie:** Mechanical Engineering, National University of Singapore
 - **Sharmaine Seet Shien:** Business Administration, National University of Singapore
