@@ -1,0 +1,11 @@
+id,Date,energyUsed,onARCHIVE,archiveon,time
+1,2024-01-01,2600,t,Usage with Archive,06:00
+2,2024-01-01,3200,f,Predicted Normal Usage,06:00
+3,2024-02-01,2921,t,Usage with Archive,08:00
+4,2024-02-01,3700,f,Predicted Normal Usage,08:00
+5,2024-03-01,2450,t,Usage with Archive,10:00
+6,2024-03-01,2917,f,Predicted Normal Usage,10:00
+7,2024-04-01,2400,t,Usage with Archive,12:00
+8,2024-04-01,2999,f,Predicted Normal Usage,12:00
+9,2024-05-01,2801,t,Usage with Archive,14:00
+10,2024-05-01,3502,f,Predicted Normal Usage,14:00

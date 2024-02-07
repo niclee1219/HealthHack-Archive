@@ -1,0 +1,59 @@
+id,day,energy_used,archive_on
+1,2024-02-01,5800,Usage With Archive
+2,2024-02-02,5883,Usage With Archive
+3,2024-02-03,3407,Usage With Archive
+4,2024-02-04,3284,Usage With Archive
+5,2024-02-05,4688,Usage With Archive
+6,2024-02-06,5232,Usage With Archive
+7,2024-02-07,3872,Usage With Archive
+8,2024-02-08,5127,Usage With Archive
+9,2024-02-09,5796,Usage With Archive
+10,2024-02-10,4669,Usage With Archive
+11,2024-02-11,4751,Usage With Archive
+12,2024-02-12,5938,Usage With Archive
+13,2024-02-13,3623,Usage With Archive
+14,2024-02-14,3787,Usage With Archive
+15,2024-02-15,5332,Usage With Archive
+16,2024-02-16,3569,Usage With Archive
+17,2024-02-17,4087,Usage With Archive
+18,2024-02-18,3397,Usage With Archive
+19,2024-02-19,4453,Usage With Archive
+20,2024-02-20,5490,Usage With Archive
+21,2024-02-21,3445,Usage With Archive
+22,2024-02-22,3784,Usage With Archive
+23,2024-02-23,4142,Usage With Archive
+24,2024-02-24,5693,Usage With Archive
+25,2024-02-25,4181,Usage With Archive
+26,2024-02-26,5841,Usage With Archive
+27,2024-02-27,3960,Usage With Archive
+28,2024-02-28,4501,Usage With Archive
+29,2024-02-29,3135,Usage With Archive
+30,2024-02-01,6504,Predicted Savings
+31,2024-02-02,6626,Predicted Savings
+32,2024-02-03,4519,Predicted Savings
+33,2024-02-04,4400,Predicted Savings
+34,2024-02-05,5753,Predicted Savings
+35,2024-02-06,6527,Predicted Savings
+36,2024-02-07,4754,Predicted Savings
+37,2024-02-08,5943,Predicted Savings
+38,2024-02-09,7090,Predicted Savings
+39,2024-02-10,5699,Predicted Savings
+40,2024-02-11,6179,Predicted Savings
+41,2024-02-12,6710,Predicted Savings
+42,2024-02-13,4955,Predicted Savings
+43,2024-02-14,5214,Predicted Savings
+44,2024-02-15,6097,Predicted Savings
+45,2024-02-16,4989,Predicted Savings
+46,2024-02-17,5065,Predicted Savings
+47,2024-02-18,4386,Predicted Savings
+48,2024-02-19,5780,Predicted Savings
+49,2024-02-20,6607,Predicted Savings
+50,2024-02-21,4783,Predicted Savings
+51,2024-02-22,4674,Predicted Savings
+52,2024-02-23,5499,Predicted Savings
+53,2024-02-24,6511,Predicted Savings
+54,2024-02-25,5360,Predicted Savings
+55,2024-02-26,6954,Predicted Savings
+56,2024-02-27,5049,Predicted Savings
+57,2024-02-28,5585,Predicted Savings
+58,2024-02-29,4158,Predicted Savings
