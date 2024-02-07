@@ -1,9 +1,27 @@
 <img width="200" alt="archive logo" src="https://github.com/niclee1219/HealthHack-Archive/assets/20497341/e88b716a-2b48-40a4-be01-92698fd96d38">
 <br><br>
 
-# HealthHack-Archive (HealthHack 2024)
+# ARCHIVE (HealthHack 2024)
 Streamlining Airflow for Hospitals
 
+## Installation and Setup
+1. Go to [Our Retool Page](https://healthhack2024.retool.com/)
+2. Login with the following credentials:
+   - Username: `********` (account details sent to email)
+   - Password: `********` (account details sent to email)
+3. Once logged in, you will be able to access the ARCHIVE dashboard and its features.
+    - To access the ARCHIVE dashboard, click on the `HealthHack-ARCHIVE` app at the home screen to access the app
+    - **(if you are logged in)** Alternatively, visit [here](https://healthhack2024.retool.com/apps/2ef143bc-c4df-11ee-89e7-dbcc5ce330e5/HealthHack-ARCHIVE) to view the app
+
+To request access, please send an email to [our team](mailto:lee_nicholas@u.nus.edu). Thanks!
+
+## Table of Contents
+1. [Project Description](#project-description)
+2. [Key Features](#key-features)
+3. [Built With](#built-with)
+4. [Project Roadmap](#project-roadmap)
+5. [Models](#models)
+6. [Team](#team)
 
 
 ## Project Description
@@ -25,6 +43,8 @@ ARCHIVE is a pioneering web application designed to revolutionize the way hospit
 - **Retool:** For building the dashboard and user interface efficiently.
 - **SQL:** To manage and query the extensive data collected from IoT sensors.
 - **JavaScript (JS):** For creating interactive and dynamic web application features.
+- **Python:** For developing predictive analytics models to forecast energy consumption and detect anomalies.
+- **National Environment Agency (NEA) API:** To source real-time weather data for precise HVAC system optimization.
 
 ## Project Roadmap
 
@@ -46,10 +66,10 @@ Currently, ARCHIVE is in its early stages of development. Our immediate focus is
 Both models serve as foundational tools in our arsenal, paving the way for sophisticated energy-saving strategies that can lead to substantial reductions in energy usage and costs, as well as contribute to our environmental sustainability goals. By leveraging such predictive analytics, HealthHack-Archive stands at the forefront of smart, efficient, and responsible energy management in healthcare facilities.
 
 ## Team: 
-- **Dexter Choo Jun Jie:** Mechanical Engineering, National University of Singapore
-- **Sharmaine Seet Shien:** Business Administration, National University of Singapore
-- **Wan Rong Tan:** Business Administration, National University of Singapore
-- **Nicholas Lee:** Business Analytics, National University of Singapore
-- **Ryan Wong Jun Han:** Business Management, Singapore Management University
+- [Dexter Choo Jun Jie:](https://www.linkedin.com/in/dexterchoojj/) Mechanical Engineering, National University of Singapore
+- [Sharmaine Seet Shien:](https://www.linkedin.com/in/sharmaineseet/) Business Administration, National University of Singapore
+- [Wan Rong Tan:](https://www.linkedin.com/in/tanwanrong/) Business Administration, National University of Singapore
+- [Nicholas Lee:](https://www.linkedin.com/in/nicholas-lee-pixolateds/)Business Analytics, National University of Singapore
+- [Ryan Wong Jun Han:](https://www.linkedin.com/in/ryanwongjh/) Business Management, Singapore Management University
 
 
