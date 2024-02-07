@@ -10,7 +10,7 @@ Streamlining Airflow for Hospitals
    - Username: `********` (account details sent to email)
    - Password: `********` (account details sent to email)
 3. Once logged in, you will be able to access the ARCHIVE dashboard and its features.
-    - To access the ARCHIVE dashboard, click on the `HealthHack-ARCHIVE` app at the home screen to access the app
+    - To access the ARCHIVE dashboard, click on the `HealthHack-ARCHIVE` app on the home screen to access the app
     - **(if you are logged in)** Alternatively, visit [here](https://healthhack2024.retool.com/apps/2ef143bc-c4df-11ee-89e7-dbcc5ce330e5/HealthHack-ARCHIVE) to view the app
 
 To request access, please send an email to [our team](mailto:lee_nicholas@u.nus.edu). Thanks!
@@ -48,7 +48,7 @@ ARCHIVE is a pioneering web application designed to revolutionize the way hospit
 
 ## Project Roadmap
 
-Currently, ARCHIVE is in its early stages of development. Our immediate focus is on building on the predictive analytics algorithms and enhancing the dashboard's functionality. Moving forward, we aim to:
+Currently, ARCHIVE is in its early stages of development. Currently, we aim to use this as our MVP to showcase the potential of ARCHIVE. Our immediate focus is on building on the predictive analytics algorithms and enhancing the dashboard's functionality. Moving forward, we aim to:
 
 - **Expand the Team:** Onboard more developers and engineers, especially those with expertise in hardware components, to enrich our product development capabilities.
 - **Improve Predictive Algorithms:** Continuously refine our algorithms for time series forecasting and regression modeling to ensure higher accuracy in predictions and anomaly detection.
@@ -58,18 +58,30 @@ Currently, ARCHIVE is in its early stages of development. Our immediate focus is
 - **Provide Comprehensive Training & Support:** Develop training materials and resources for hospital administrators and staff to ensure successful adoption and utilization of ARCHIVE.
 
 ## Models
-- The time series forecast model offers a straightforward, time-based forecast, enabling long-term energy planning.
-  
-- The regression model's multi-factor approach provides actionable insights for real-time optimization, targeting the most significant factors influencing energy consumption.
+
+### Time Series Forecasting
+The time series forecast model offers a straightforward, time-based forecast, enabling long-term energy planning. The goal was to accurately forecast energy usage based on historical data, taking into account both trends and seasonality patterns.
+<img width="446" alt="Screenshot 2024-02-08 at 2 38 17 AM" src="https://github.com/niclee1219/HealthHack-Archive/assets/20497341/5ac0ce03-3f07-402d-9eac-dfeb95d189d1">
+
+- Next steps:
+    - **Model Refinement:** Continuously refine the model to improve forecast accuracy and reliability. We plan to incorporate additional factors such as real-time weather data to enhance the model's precision in forecasting energy usage. Additionally, we aim to explore the use of more advanced time series forecasting models such as ARIMA and Prophet to further improve forecast accuracy.
+    - **Incorporate Real-time Data:** Integrate real-time weather data to enhance the model's precision in forecasting energy usage.
+
+### Regression Model
+The regression model's multi-factor approach provides actionable insights for real-time optimization, targeting the most significant factors influencing energy consumption. The model is designed to detect anomalies in energy usage, enabling preventive maintenance and energy-saving strategies.
 <img width="594" alt="image" src="https://github.com/niclee1219/HealthHack-Archive/assets/159306217/f95db3f0-517d-4746-a863-eccd8c5981e6">
 
-Both models serve as foundational tools in our arsenal, paving the way for sophisticated energy-saving strategies that can lead to substantial reductions in energy usage and costs, as well as contribute to our environmental sustainability goals. By leveraging such predictive analytics, HealthHack-Archive stands at the forefront of smart, efficient, and responsible energy management in healthcare facilities.
+- Next steps:
+    - **Model Refinement:** Continuously refine the model to improve anomaly detection accuracy and reliability. To ensure more accurate predictions, we plan to explore more variables to fit our model. For the data, we aim to explore the use of more advanced regression models such as Random Forest and Gradient Boosting to further improve anomaly detection accuracy.
+    - **Incorporate Real-time Data:** Integrate real-time weather data and occupancy levels to enhance the model's precision in detecting anomalies in energy usage.
+
+
 
 ## Team: 
 - [Dexter Choo Jun Jie:](https://www.linkedin.com/in/dexterchoojj/) Mechanical Engineering, National University of Singapore
 - [Sharmaine Seet Shien:](https://www.linkedin.com/in/sharmaineseet/) Business Administration, National University of Singapore
 - [Wan Rong Tan:](https://www.linkedin.com/in/tanwanrong/) Business Administration, National University of Singapore
-- [Nicholas Lee:](https://www.linkedin.com/in/nicholas-lee-pixolateds/)Business Analytics, National University of Singapore
+- [Nicholas Lee:](https://www.linkedin.com/in/nicholas-lee-pixolateds/) Business Analytics, National University of Singapore
 - [Ryan Wong Jun Han:](https://www.linkedin.com/in/ryanwongjh/) Business Management, Singapore Management University
 
 
